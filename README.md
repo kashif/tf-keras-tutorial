@@ -5,4 +5,4 @@ tf.keras + tf.data with Eager Execution Tutorial notebooks shamelessly copied fr
 
 ## Requirements
 
-You can use the latest version of TensorFlow which at this time is `1.9.0`, however the last notebook [7-estimators-multi-gpus.ipynb](7-estimators-multi-gpus.ipynb) will require `tf-nightly-gpu`.
+You can use the latest version of TensorFlow which at this time is `1.13.0`.
