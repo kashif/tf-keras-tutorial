@@ -1,5 +1,4 @@
 matplotlib
 numpy
 pandas
-tensorflow
-
+tf-nightly-gpu-2.0-preview

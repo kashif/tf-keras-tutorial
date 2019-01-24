@@ -1,8 +1,12 @@
-# `tf.keras` Tutorial
+# TensorFlow 2 `tf.keras` Tutorial
 
-tf.keras + tf.data with Eager Execution Tutorial notebooks shamelessly copied from [tensorflow/workshops](https://github.com/tensorflow/workshops)
+TensorFlow 2 `tf.keras` with `tf.data`Tutorial notebooks shamelessly copied from [tensorflow/workshops](https://github.com/tensorflow/workshops)
 
 
 ## Requirements
 
-You can use the latest version of TensorFlow which at this time is `1.13.0`.
+You need the latest version of TensorFlow 2 which at this time is you can get via:
+
+```
+$ pip3 install -U tf-nightly-gpu-2.0-preview
+```
